@@ -331,16 +331,17 @@ apellido-nombre-proyecto/
 ### README de Entrega
 
 ```markdown
-# Ficha de [Tu Dominio] - [Tu Nombre]
+# Ficha de [65] - [App de guias turisticas virtuales]
 
 ## 📋 Información
-- **Nombre**: [Tu nombre completo]
-- **Fecha**: [DD/MM/YYYY]
-- **Dominio Asignado**: [Tu dominio]
-- **Entidad Principal**: [Qué representa tu ficha]
+- **Nombre**: [Kevin Sneider Chavarrio Linero]
+- **Fecha**: [13/02/2026]
+- **Dominio Asignado**: [App de guias turisticas virtuales]
+- **Entidad Principal**: [Turismo y Hospitalidad]
 
 ## 🎯 Descripción
-[Breve descripción de lo que muestra tu ficha]
+[App especializada en guias turisticas de manera virtual]
+
 
 ## 📚 Conceptos ES2023 Aplicados
 - [ ] Variables con let/const
